@@ -10,7 +10,7 @@ import p1 from "../assets/p1.svg";
 function Projects() {
   const openResumeInNewTab = () => {
     window.open(
-      "https://drive.google.com/file/d/1hGoSWJQEkSBqgjOHpVUoquwF6j9R4yYR/view?usp=sharing",
+      "https://drive.google.com/file/d/1IiXy5QCdvu-1YkB2mL1cw1wMN2XiODRf/view?usp=sharing",
       "_blank"
     );
   };
